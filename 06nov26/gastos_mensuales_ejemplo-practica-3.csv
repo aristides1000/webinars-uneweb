@@ -1,0 +1,21 @@
+ID_Gasto,Mes,Categoria,Monto_USD,Estado
+G-101,Enero,Suministros de Oficina,1235.51,Pagado
+G-102,Febrero,Impuestos,978.26,Pagado
+G-103,Marzo,Nómina,329.97,Pagado
+G-104,Abril,Software y Licencias,981.45,Pendiente
+G-105,Mayo,Mantenimiento,5394.88,Pendiente
+G-106,Junio,Mantenimiento,476.04,Pagado
+G-107,Julio,Software y Licencias,1002.73,Pagado
+G-108,Agosto,Software y Licencias,761.53,Pagado
+G-109,Septiembre,Nómina,719.82,Pagado
+G-110,Octubre,Marketing,676.27,Pagado
+G-111,Noviembre,Suministros de Oficina,1003.9,Pagado
+G-112,Diciembre,Marketing,9146.9,Pagado
+G-113,Enero,Nómina,1084.4,Pagado
+G-114,Febrero,Servicios Públicos,1433.55,Aprobado
+G-115,Marzo,Servicios Públicos,701.04,Pagado
+G-116,Abril,Servicios Públicos,1089.5,Pagado
+G-117,Mayo,Suministros de Oficina,993.0,Pendiente
+G-118,Junio,Nómina,11365.24,Pagado
+G-119,Julio,Impuestos,1181.97,Pagado
+G-120,Agosto,Mantenimiento,910.72,Pagado
